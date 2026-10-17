@@ -63,10 +63,18 @@ These are checked on the gblobal --------------------
 
 ![Ip reputation check](images/Ip_reputation.png)
 
-    Figure 3: Header_Analysis and Routing History
+    Figure 3: Ip reputation
  </center>
 
  The ip is on blacklist
+
+ <center> 
+
+![Domain reputation check](images/Domain_reputation.png)
+
+    Figure 3: Domain reputation check
+ </center>
+
 
  5. Deep dive analysis
 
