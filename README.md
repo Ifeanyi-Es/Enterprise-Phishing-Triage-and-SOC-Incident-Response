@@ -48,13 +48,12 @@ DMARC = None
 
 The sender intentionally tried to bypass security measures and this indicates a high probability of a phishing scam or malicious spoofing attempt.
 
+<center> 
 
-     <center> 
-
-    ![validation_failures](images/validation_failures.png)
+![validation_failures](images/validation_failures.png)
 
         Figure 4: Validation Failures
-     </center>
+</center>
 
 
 
