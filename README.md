@@ -101,7 +101,7 @@ The file hash has returned no information, this could mean a zero day.
     Figure 8: 
  </center>
 
- Ran email in sandoxed cloud envirnoment to understand the behavior but no threat was detected.this could also mean a zeroday attack.
+ Since this is a publicly available email sample and not sensitive company data, I analyzed the email in sandboxed cloud envirnoment to understand the behavior but no threat was detected.This could also mean a zeroday.
    <center> 
 
 ![Domain reputation check](images/Any.run.png)
