@@ -61,7 +61,7 @@ The sender intentionally tried to bypass security measures and this indicates a 
 Analyzing the hop history, the email came from dturm.de with an Ip 57.128.69.202
 
   <center> 
-
+git
 ![Header_Analysis](images/Header_Analysis.png)
 
     Figure 5: Header_Analysis and Routing History
@@ -101,7 +101,7 @@ The file hash has returned no information, this could mean a zero day.
     Figure 8: 
  </center>
 
- Ran email in sandoxed cloud envirnoment to understand the behavior but no threat was detected.this could also mean a zeroday attack.
+ This is a publicly available email sample and not sensitive company data. I analyzed the email in sandoxed cloud envirnoment to understand the behavior but no threat was detected. This could also mean a zeroday attack.
    <center> 
 
 ![Domain reputation check](images/Any.run.png)
